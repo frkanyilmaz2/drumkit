@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.718a3def.css",
-    "main.js": "/static/js/main.70d16dce.js",
-    "index.html": "/index.html",
-    "main.718a3def.css.map": "/static/css/main.718a3def.css.map",
-    "main.70d16dce.js.map": "/static/js/main.70d16dce.js.map"
+    "main.css": "/drumkit/static/css/main.718a3def.css",
+    "main.js": "/drumkit/static/js/main.70d16dce.js",
+    "index.html": "/drumkit/index.html",
+    "main.718a3def.css.map": "/drumkit/static/css/main.718a3def.css.map",
+    "main.70d16dce.js.map": "/drumkit/static/js/main.70d16dce.js.map"
   },
   "entrypoints": [
     "static/css/main.718a3def.css",
